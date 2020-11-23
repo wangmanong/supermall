@@ -1,0 +1,30 @@
+{
+  "id": "2191389",
+  "name": "bottom_bar",
+  "font_family": "iconfont",
+  "css_prefix_text": "icon-",
+  "description": "",
+  "glyphs": [
+    {
+      "icon_id": "1596308",
+      "name": "客服",
+      "font_class": "kefu",
+      "unicode": "e602",
+      "unicode_decimal": 58882
+    },
+    {
+      "icon_id": "14109734",
+      "name": "收 藏",
+      "font_class": "shoucang",
+      "unicode": "e645",
+      "unicode_decimal": 58949
+    },
+    {
+      "icon_id": "14357178",
+      "name": "店铺",
+      "font_class": "dianpu",
+      "unicode": "e618",
+      "unicode_decimal": 58904
+    }
+  ]
+}

@@ -1,0 +1,16 @@
+{
+  "id": "2164888",
+  "name": "ci'm'g",
+  "font_family": "iconfont",
+  "css_prefix_text": "icon-",
+  "description": "",
+  "glyphs": [
+    {
+      "icon_id": "14085533",
+      "name": "搜索--1",
+      "font_class": "soushuo",
+      "unicode": "e600",
+      "unicode_decimal": 58880
+    }
+  ]
+}

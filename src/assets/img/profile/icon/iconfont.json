@@ -1,0 +1,16 @@
+{
+  "id": "2191389",
+  "name": "bottom_bar",
+  "font_family": "iconfont",
+  "css_prefix_text": "icon-",
+  "description": "",
+  "glyphs": [
+    {
+      "icon_id": "5816859",
+      "name": "右指向",
+      "font_class": "youzhixiang",
+      "unicode": "e612",
+      "unicode_decimal": 58898
+    }
+  ]
+}
